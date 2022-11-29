@@ -6,8 +6,8 @@ import psycopg2
 # password = {Enter password}
 
 
-host = "testpostgresqlflask.postgres.database.azure.com"
-dbname = "postgres"
-user = "testflaskuser@testpostgresqlflask"
-password = "Azure123@@"
+host = "rrworlddbserver-dev.postgres.database.azure.com"
+dbname = "rrworlddb"
+user = "rrworlddbuser"
+password = "QweAsd@123"
 sslmode = "require"
